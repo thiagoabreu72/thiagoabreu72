@@ -1,5 +1,5 @@
 - 👋 Olá, sou Thiago! 
-- 👀 Tenho interesse em tecnologias em geral e meu foco atualmente é programação utilizando JS. 
+- 👀 Tenho interesse em tecnologias em geral e meu foco atualmente é programação utilizando JS e TS, com Angular no front. 
 - 🌱 Vivo em constante aprendizado, tecnologia é o que me movimenta.
 
 <!---
